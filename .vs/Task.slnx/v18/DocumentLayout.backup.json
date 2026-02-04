@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79FD77-2275-4F80-BC73-A151AF3BA42D}|Task\\Task.csproj|c:\\users\\pc\\source\\repos\\task\\task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD79FD77-2275-4F80-BC73-A151AF3BA42D}|Task\\Task.csproj|solutionrelative:task\\task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79FD77-2275-4F80-BC73-A151AF3BA42D}|Task\\Task.csproj|c:\\users\\pc\\source\\repos\\task\\task\\implement\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD79FD77-2275-4F80-BC73-A151AF3BA42D}|Task\\Task.csproj|solutionrelative:task\\implement\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79FD77-2275-4F80-BC73-A151AF3BA42D}|Task\\Task.csproj|c:\\users\\pc\\source\\repos\\task\\task\\model\\fizzbuzzresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD79FD77-2275-4F80-BC73-A151AF3BA42D}|Task\\Task.csproj|solutionrelative:task\\model\\fizzbuzzresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79FD77-2275-4F80-BC73-A151AF3BA42D}|Task\\Task.csproj|c:\\users\\pc\\source\\repos\\task\\task\\controllers\\fizzbuzzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD79FD77-2275-4F80-BC73-A151AF3BA42D}|Task\\Task.csproj|solutionrelative:task\\controllers\\fizzbuzzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79FD77-2275-4F80-BC73-A151AF3BA42D}|Task\\Task.csproj|c:\\users\\pc\\source\\repos\\task\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD79FD77-2275-4F80-BC73-A151AF3BA42D}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD79FD77-2275-4F80-BC73-A151AF3BA42D}|Task\\Task.csproj|c:\\users\\pc\\source\\repos\\task\\task\\interface\\ifizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD79FD77-2275-4F80-BC73-A151AF3BA42D}|Task\\Task.csproj|solutionrelative:task\\interface\\ifizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Task\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Task\\Task\\Program.cs",
+              "RelativeToolTip": "Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T18:38:23.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FizzBuzzController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Task\\Task\\Controllers\\FizzBuzzController.cs",
+              "RelativeDocumentMoniker": "Task\\Controllers\\FizzBuzzController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Task\\Task\\Controllers\\FizzBuzzController.cs",
+              "RelativeToolTip": "Task\\Controllers\\FizzBuzzController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T18:36:19.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FizzBuzzService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Task\\Task\\Implement\\FizzBuzzService.cs",
+              "RelativeDocumentMoniker": "Task\\Implement\\FizzBuzzService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Task\\Task\\Implement\\FizzBuzzService.cs",
+              "RelativeToolTip": "Task\\Implement\\FizzBuzzService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T18:34:14.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FizzBuzzResult.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Task\\Task\\Model\\FizzBuzzResult.cs",
+              "RelativeDocumentMoniker": "Task\\Model\\FizzBuzzResult.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Task\\Task\\Model\\FizzBuzzResult.cs",
+              "RelativeToolTip": "Task\\Model\\FizzBuzzResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T18:33:23.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFizzBuzzService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Task\\Task\\Interface\\IFizzBuzzService.cs",
+              "RelativeDocumentMoniker": "Task\\Interface\\IFizzBuzzService.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Task\\Task\\Interface\\IFizzBuzzService.cs",
+              "RelativeToolTip": "Task\\Interface\\IFizzBuzzService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T18:32:36.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\Task\\Task\\Task.csproj",
+              "RelativeDocumentMoniker": "Task\\Task.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\Task\\Task\\Task.csproj",
+              "RelativeToolTip": "Task\\Task.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-04T18:30:14.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
