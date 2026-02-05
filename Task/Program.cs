@@ -1,5 +1,6 @@
 using Task.Implement;
 using Task.Interface;
+using Task.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +11,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IFizzBuzzService, FizzBuzzService>();
+builder.Services.AddScoped<IDivisionService, DivisionService>();
 
 var app = builder.Build();
 

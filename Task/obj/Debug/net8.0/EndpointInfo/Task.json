@@ -84,13 +84,6 @@
           "output": {
             "type": "string",
             "nullable": true
-          },
-          "divisionLog": {
-            "type": "array",
-            "items": {
-              "type": "string"
-            },
-            "nullable": true
           }
         },
         "additionalProperties": false

@@ -1,21 +1,23 @@
 ﻿using Task.Interface;
 using Task.Model;
+using Task.Repository;
 
 namespace Task.Implement
 {
     public class FizzBuzzService : IFizzBuzzService
     {
+        private readonly IDivisionService _divisionService;
+
+        public FizzBuzzService(IDivisionService divisionService)
+        {
+            _divisionService = divisionService;
+        }
+
         public FizzBuzzResult ProcessValue(string value)
         {
             var result = new FizzBuzzResult { Input = value };
 
-            if (string.IsNullOrWhiteSpace(value))
-            {
-                result.Output = "Invalid Item";
-                return result;
-            }
-
-            if (!int.TryParse(value, out int number))
+            if (string.IsNullOrWhiteSpace(value) || !int.TryParse(value, out int number))
             {
                 result.Output = "Invalid Item";
                 return result;
@@ -38,9 +40,7 @@ namespace Task.Implement
             }
             else
             {
-                result.Output = string.Empty;
-                result.DivisionLog.Add($"Divided {number} by 3");
-                result.DivisionLog.Add($"Divided {number} by 5");
+                result.Output = _divisionService.GetDivisionResult(number);
             }
 
             return result;
