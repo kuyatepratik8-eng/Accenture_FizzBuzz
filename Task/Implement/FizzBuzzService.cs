@@ -7,6 +7,8 @@ namespace Task.Implement
     public class FizzBuzzService : IFizzBuzzService
     {
         private readonly IDivisionService _divisionService;
+        private const int FizzDivisor = 3;
+        private const int BuzzDivisor = 5;
 
         public FizzBuzzService(IDivisionService divisionService)
         {
@@ -23,8 +25,8 @@ namespace Task.Implement
                 return result;
             }
 
-            bool divisibleBy3 = number % 3 == 0;
-            bool divisibleBy5 = number % 5 == 0;
+            bool divisibleBy3 = number % FizzDivisor == 0;
+            bool divisibleBy5 = number % BuzzDivisor == 0;
 
             if (divisibleBy3 && divisibleBy5)
             {
