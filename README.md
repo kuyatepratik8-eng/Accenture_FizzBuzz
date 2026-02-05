@@ -1,6 +1,6 @@
 # FizzBuzz Application (.NET)
 
-## 📌 Overview
+## Overview
 This project is a C#/.NET implementation of the classic **FizzBuzz** problem, designed using **clean architecture principles** such as:
 
 - Single Responsibility Principle (SRP)
@@ -14,8 +14,4 @@ The application processes an array of input values and returns:
 - `FizzBuzz` if the value is divisible by both 3 and 5
 - Division messages if none of the above apply
 - `Invalid Item` for empty or non-numeric inputs
-
----
-
-## 🧩 Project Structure
 
